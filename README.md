@@ -4,6 +4,12 @@ Data Source is a multi-page web development project originally created from univ
 
 This repository is an educational portfolio/demo project. It is not a real company website, production recruitment system, or commercial client project.
 
+## Live Demo
+
+**Live Demo:** [https://nikolaosanestakis.github.io/data-source-portfolio/](https://nikolaosanestakis.github.io/data-source-portfolio/)
+
+GitHub Pages hosts the static portfolio demonstration, where the HTML, CSS, navigation, responsive layouts, and browser-side form validation can be explored. The included `process_apply.php` form processor cannot execute on GitHub Pages; full form processing can be tested locally using the PHP development-server instructions below.
+
 ## Project Preview
 
 ![Data Source desktop homepage](docs/screenshots/home-desktop.png)
