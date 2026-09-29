@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary/editor files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Local environment files
+.env
+.env.*
